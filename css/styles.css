@@ -159,7 +159,7 @@ section {
 
 .photo {
 	position: relative;
-	line-height: 1;
+	line-height: 1.2;
 	margin-bottom: 2em;
 	overflow: hidden;
 	border-radius: 8px;
@@ -183,7 +183,9 @@ section {
 }
 
 .photo-overlay {
-	color: rgb(116, 116, 116);
+	color: rgb(28, 158, 233, .9);
+	font-weight: bold;
+	font-size: 16px;
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -196,7 +198,7 @@ section {
 }
 
 .white-head {
-	color: rgb(116, 116, 116);
+	color: rgb(28, 158, 233, .9);
 	text-shadow: 2px 2px 3px rgb(160, 156, 156);
 	margin-top: 5%;
 }
