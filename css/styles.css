@@ -156,6 +156,10 @@ section {
 /*-------------------- RECENT PROJECTS --------------------*/
 .display-4 {
     text-align: left;
+    color: #000;
+}
+.lead {
+    color: #000;
 }
 /*-------------------- END RECENT PROJECTS --------------------*/
 
