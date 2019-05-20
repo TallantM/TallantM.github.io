@@ -153,6 +153,12 @@ section {
 }
 /*-------------------- END SKILLS --------------------*/
 
+/*-------------------- RECENT PROJECTS --------------------*/
+.display-4 {
+    text-align: left
+}
+/*-------------------- END RECENT PROJECTS --------------------*/
+
 /*-------------------- ED/EXP --------------------*/
 .flex-container {
     display: -webkit-flex;
