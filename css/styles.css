@@ -16,7 +16,7 @@ h1, h5 {
 h1 {
     text-shadow: 2px 4px 5px rgba(245, 230, 230, 0.9);
 	font-variant: small-caps;
-	color: rgb(28, 158, 233, .5);
+	color: rgb(28, 158, 233);
 	letter-spacing: 5pt;
 	word-spacing: 21pt;
 	font-size: 80px;
@@ -125,10 +125,10 @@ section {
 .head-main {
 	text-shadow: 2px 4px 5px rgba(245, 230, 230, 0.9);
 	font-variant: small-caps;
-	color: rgb(28, 158, 233, .5);
+	color: rgb(28, 158, 233);
 	letter-spacing: 5pt;
 	word-spacing: 21pt;
-	font-size: 100px;
+	font-size: 80px;
 	text-align: left;
 	font-family: impact, sans-serif;
 	line-height: 1.5;
